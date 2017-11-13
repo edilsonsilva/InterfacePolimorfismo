@@ -6,8 +6,12 @@ namespace InterfacePolimorfismo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Nova linha de comandos");
+
+            Console.WriteLine("Olá mundo!");
+
+            Console.WriteLine("Tudo bem!");
+
+
         }
     }
 }
