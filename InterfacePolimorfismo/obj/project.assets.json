@@ -670,11 +670,13 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+
       "projectUniqueName": "c:\\Users\\fernando.henrique\\backend\\InterfacePolimorfismo\\InterfacePolimorfismo\\InterfacePolimorfismo.csproj",
       "projectName": "InterfacePolimorfismo",
       "projectPath": "c:\\Users\\fernando.henrique\\backend\\InterfacePolimorfismo\\InterfacePolimorfismo\\InterfacePolimorfismo.csproj",
       "packagesPath": "C:\\Users\\fernando.henrique\\.nuget\\packages\\",
       "outputPath": "c:\\Users\\fernando.henrique\\backend\\InterfacePolimorfismo\\InterfacePolimorfismo\\obj\\",
+
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

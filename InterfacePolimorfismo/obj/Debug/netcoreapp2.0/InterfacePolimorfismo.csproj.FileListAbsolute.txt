@@ -1,0 +1,10 @@
+C:\Users\edilson.jesus\basevscode\InterfacePolimorfismo\InterfacePolimorfismo\bin\Debug\netcoreapp2.0\InterfacePolimorfismo.deps.json
+C:\Users\edilson.jesus\basevscode\InterfacePolimorfismo\InterfacePolimorfismo\bin\Debug\netcoreapp2.0\InterfacePolimorfismo.runtimeconfig.json
+C:\Users\edilson.jesus\basevscode\InterfacePolimorfismo\InterfacePolimorfismo\bin\Debug\netcoreapp2.0\InterfacePolimorfismo.runtimeconfig.dev.json
+C:\Users\edilson.jesus\basevscode\InterfacePolimorfismo\InterfacePolimorfismo\bin\Debug\netcoreapp2.0\InterfacePolimorfismo.dll
+C:\Users\edilson.jesus\basevscode\InterfacePolimorfismo\InterfacePolimorfismo\bin\Debug\netcoreapp2.0\InterfacePolimorfismo.pdb
+C:\Users\edilson.jesus\basevscode\InterfacePolimorfismo\InterfacePolimorfismo\obj\Debug\netcoreapp2.0\InterfacePolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\edilson.jesus\basevscode\InterfacePolimorfismo\InterfacePolimorfismo\obj\Debug\netcoreapp2.0\InterfacePolimorfismo.AssemblyInfoInputs.cache
+C:\Users\edilson.jesus\basevscode\InterfacePolimorfismo\InterfacePolimorfismo\obj\Debug\netcoreapp2.0\InterfacePolimorfismo.AssemblyInfo.cs
+C:\Users\edilson.jesus\basevscode\InterfacePolimorfismo\InterfacePolimorfismo\obj\Debug\netcoreapp2.0\InterfacePolimorfismo.dll
+C:\Users\edilson.jesus\basevscode\InterfacePolimorfismo\InterfacePolimorfismo\obj\Debug\netcoreapp2.0\InterfacePolimorfismo.pdb

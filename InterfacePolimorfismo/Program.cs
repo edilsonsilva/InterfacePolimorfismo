@@ -6,9 +6,11 @@ namespace InterfacePolimorfismo
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("Olá mundo!");
 
             Console.WriteLine("Tudo bem!");
+
 
         }
     }
